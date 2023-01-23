@@ -2,7 +2,7 @@
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 400;
-  src: local('OpenSans-Regular'),
+  src: local('Open Sans'),
        url('https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff') format("woff");
   font-display: swap;
 }
@@ -11,7 +11,7 @@
   font-family: 'Open Sans';
   font-style: normal;
   font-weight: 700;
-  src: local('OpenSans-Bold'),
+  src: local('Open Sans'),
        url('https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff') format("woff");
   font-display: swap;
 }
